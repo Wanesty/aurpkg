@@ -1,5 +1,5 @@
-# Maintainer: 	  Andy 'Blocktronics' Herbert <blocktronics.org>
-# Aur Maintainer: Wanesty <github.com/Wanesty/aurpkg>
+# Maintainer:	Wanesty <github.com/Wanesty/aurpkg>
+# Dev: Andy 'Blocktronics' Herbert <blocktronics.org>
 
 pkgname=moebius-bin
 pkgver=1.0.29
